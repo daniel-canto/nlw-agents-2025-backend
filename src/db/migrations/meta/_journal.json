@@ -15,6 +15,20 @@
       "when": 1752197386955,
       "tag": "0001_pink_nitro",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752954609117,
+      "tag": "0002_burly_violations",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752969221867,
+      "tag": "0003_colorful_sphinx",
+      "breakpoints": true
     }
   ]
 }

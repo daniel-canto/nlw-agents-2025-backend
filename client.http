@@ -39,9 +39,9 @@ GET {{baseurl}}/rooms/{{roomId}}/questions
 
 # Create question
 # @name createQuestion
-POST {{baseurl}}/rooms/{{roomId}}/questions
+POST {{baseurl}}/rooms/e15c052f-c450-462b-a63b-ff59fabad568/questions
 Content-Type: application/json
 
 {
-    "question": "O que é HTTP?"
+    "question": "O que é uma árvore binária?"
 }
